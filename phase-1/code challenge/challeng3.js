@@ -1,6 +1,6 @@
 let pay,nhif,nssf;
 let totalTax ;
-let grossalary=2000 // based on grossSalary
+let grossalary=10000// based on grossSalary
 let netSalary ;
 
 
@@ -16,6 +16,7 @@ let netSalary ;
     }else if (grossalary>800000){
         pay = grossalary*0.35
     }
+    
 
     
 

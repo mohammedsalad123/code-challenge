@@ -13,4 +13,4 @@ function studentGrade (X){
     }else if(X<40){
         return "E"
     }
-}console.log(studentGrade(100)) //console.log student student marks so as to get the grade.
+}console.log(studentGrade(89)) //console.log student student marks so as to get the grade.
