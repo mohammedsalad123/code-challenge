@@ -15,12 +15,11 @@ Insights
 Owner avatar
 Flatiron
 Public
-martinwakaba/Flatiron
+mohammedsalad/The Royal Bank of Flatiron
  1 branch
  0 tags
 Latest commit
-@martinwakaba
-martinwakaba final commit
+
 b5c4555
 53 minutes ago
 Git stats
