@@ -15,7 +15,7 @@ Insights
 Owner avatar
 Flatiron
 Public
-mohammedsalad/The Royal Bank of Flatiron
+mohammedsalad123/The Royal Bank of Flatiron
  1 branch
  0 tags
 Latest commit
@@ -64,7 +64,7 @@ Add New Transactions: Easily add new transactions using a simple form that requi
 
 Search Functionality: Utilize the search bar to filter transactions by typing a description. Only matching transactions will be displayed, making it convenient to find specific entries.
 
-Delete Transactions: Remove transactions that are no longer needed, providing a flexible and user-friendly way to manage your transaction history.
+
 
 License
 This project is open-source and available under the MIT License. Feel free to explore, modify, and adapt it to suit your needs. For more details, refer to the LICENSE file.
@@ -74,7 +74,7 @@ Follow these steps to set up and run the Flatiron Bank App on your local machine
 
 Clone this repository onto your local machine using the following command:
 
-git clone https://github.com/martinwakaba/Flatiron-Bank
+git clone https://github.com/mohammedsalad123/code-challenge
 Install the necessary dependencies by running the following command within the project directory:
 
 npm install
